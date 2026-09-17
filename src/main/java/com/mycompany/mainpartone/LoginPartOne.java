@@ -11,6 +11,9 @@ import java.util.regex.Pattern;
 /**
  * Oracle, 2025. String (Java Platform SE). Available at: https://oracle-java-string-documentation/ [Accessed 16 September 2026].
  * Farrell, 2018. Programming Logic and Design. 9th edn. Boston, MA: Cengage Learning.
+ * Regex-based password/cell phone validation approach adapted from common
+ * Java regex validation patterns discussed at:
+ * https://www.baeldung.com/java-regex-password-validation/ [Accessed 16 September 2026].
  */
 
 public class LoginPartOne {
