@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 /**
  * Demo console app for PartOne - The Registration and Login Feature.
+ * Oracle, 2025. Scanner (Java Platform SE). Available at: https://www.oracle-java-scanner-documentation/ [Accessed 16 September 2026].
  */
  
 public class MainPartOne {
