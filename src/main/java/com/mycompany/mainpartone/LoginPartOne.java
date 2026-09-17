@@ -8,6 +8,10 @@ import java.util.regex.Pattern;
  *
  * @author Student
  */
+/**
+ * Oracle, 2025. String (Java Platform SE). Available at: https://oracle-java-string-documentation/ [Accessed 16 September 2026].
+ */
+
 public class LoginPartOne {
 
     private String firstName;
