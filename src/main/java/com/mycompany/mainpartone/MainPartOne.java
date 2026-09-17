@@ -8,6 +8,10 @@ import java.util.Scanner;
  *
  * @author Student
  */
+/**
+ * Demo console app for PartOne - The Registration and Login Feature.
+ */
+ 
 public class MainPartOne {
 
     public static void main(String[] args) {
