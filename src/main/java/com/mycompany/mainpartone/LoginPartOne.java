@@ -10,6 +10,7 @@ import java.util.regex.Pattern;
  */
 /**
  * Oracle, 2025. String (Java Platform SE). Available at: https://oracle-java-string-documentation/ [Accessed 16 September 2026].
+ * Farrell, 2018. Programming Logic and Design. 9th edn. Boston, MA: Cengage Learning.
  */
 
 public class LoginPartOne {
