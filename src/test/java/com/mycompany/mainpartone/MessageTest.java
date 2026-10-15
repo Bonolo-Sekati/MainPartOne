@@ -252,7 +252,7 @@ public class MessageTest {
         assertEquals(expected, Message.printMessages());
     }
  
-    @Test
+   @Test
     void testPrintMessagesWhenNothingSent() {
         assertEquals("No messages have been sent.", Message.printMessages());
     }
