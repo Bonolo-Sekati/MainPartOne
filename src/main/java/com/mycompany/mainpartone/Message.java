@@ -359,13 +359,4 @@ public class Message {
     }
  
     /** Points the JSON store at a different file (used by unit tests). */
-    public static void setStoreFile(String fileName) {
-        storeFile = fileName;
-    }
- 
-    /** Clears the session state so each test starts fresh. */
-    public static void resetSession() {
-        sentLog = "";
-        numMessagesSent = 0;
-    }
-}
+   
