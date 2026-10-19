@@ -1,0 +1,37 @@
+{
+  "9450259027": {
+    "messageNumber": 0,
+    "recipient": "+27662229166",
+    "messageID": "9450259027",
+    "messageHash": "94:0:GOODGOOD",
+    "message": "Good"
+  },
+  "4528703400": {
+    "messageNumber": 1,
+    "recipient": "+27669990133",
+    "messageID": "4528703400",
+    "messageHash": "45:1:GOODCHIEF",
+    "message": "Good chief"
+  },
+  "1982506162": {
+    "messageNumber": 1,
+    "recipient": "+27663338166",
+    "messageID": "1982506162",
+    "messageHash": "19:1:BONOLOBONOLO",
+    "message": "Bonolo"
+  },
+  "9101748348": {
+    "messageNumber": 0,
+    "recipient": "+27832160855",
+    "messageID": "9101748348",
+    "messageHash": "91:0:HEYBACK",
+    "message": "Hey, welcome back."
+  },
+  "4026717648": {
+    "messageNumber": 0,
+    "recipient": "+27662229166",
+    "messageID": "4026717648",
+    "messageHash": "40:0:HEYSTRANGER",
+    "message": "Hey Stranger"
+  }
+}

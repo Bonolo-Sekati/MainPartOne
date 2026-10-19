@@ -144,7 +144,9 @@ public class Message {
         return cell != null && Pattern.matches("^\\+27\\d{1,10}$", cell);
     }
  
-    /** Message shown when the message ID is created: "Message ID generated: <Message ID>". */
+    /** Message shown when the message ID is created: 
+     * "Message ID generated: <Message ID>".
+     */
     public String getMessageIDStatus() {
         return checkMessageID()
                 ? "Message ID generated: " + messageID
